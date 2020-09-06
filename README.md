@@ -1,5 +1,5 @@
 # A Video Game Sales Visualization Project with Tableau
-## This project explored the trend in video game sales since the 1980.
+## This project explored trends in video game sales since the 1980s.
 
 Link to the visualization: https://public.tableau.com/views/VideoGamesSalesVisualization/Story1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
 
